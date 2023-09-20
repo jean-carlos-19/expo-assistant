@@ -1,0 +1,1 @@
+export {ServiceOpenAI}  from "./services.ApenIA";
